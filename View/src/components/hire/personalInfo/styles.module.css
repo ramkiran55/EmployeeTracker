@@ -1,0 +1,26 @@
+.custom_container{
+    background-color: black;
+    color: white;
+}
+
+.custom_h1{
+    font-family: Georgia;
+}
+
+.custom_h4{
+    margin: 20px;
+}
+
+.custom_form_field {
+    margin-left: 10px;
+}
+
+.custom_form_label {
+    margin-right: 2px;
+}
+
+.custom_button {
+    margin : 7px;
+    width  : 100px;
+    height:  40px;
+}
